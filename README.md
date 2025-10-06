@@ -1,16 +1,13 @@
-## Hi there 👋
+hello
+i like numbers — they make sense when the world doesn’t.
 
-<!--
-**r-vazrosa/r-vazrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build **machine learning models**,  
+analyze data,  
+and use **C++ / Qt** to turn ideas into something you can actually click.
 
-Here are some ideas to get you started:
+i’m endlessly curious — about how things work, why they fail,  
+and how to make them just a little bit better next time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+always learning. always building. sometimes lost.
+
+**reach me:** [rvazquezroasles8888@gmail.com](mailto:rvazquezroasles8888@gmail.com)
