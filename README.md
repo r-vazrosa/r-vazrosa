@@ -1,5 +1,4 @@
-hello
-i like numbers — they make sense when the world doesn’t.
+i like numbers.
 
 i build **machine learning models**,  
 analyze **data**,  
